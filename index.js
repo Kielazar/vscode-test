@@ -1,6 +1,6 @@
 let age = 20;
 let inches = 6;
-let height = 180;
+let height = 200;
 
 let firstName = "Kielazar";
 let lastName = "Magbanua";
